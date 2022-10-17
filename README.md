@@ -1,6 +1,7 @@
 # AB-Testing
 Este repositorio trata sobre una prueba de usabilidad a un juego que se llama Cookie Cats
 
+![Cats](https://tactilegames.com/wp-content/uploads/2018/05/cookie-cats.png "catsco")
 # Se presenta la siguiente estructura en este repositorio
 
 El objetivo de este repositorio es analizar los datos de una prueba AB de usabilidad que se hizo a dos grupos de usuarios. 
